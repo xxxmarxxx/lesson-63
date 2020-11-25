@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+button{
+    background-color: rgb(230, 207, 173);
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 0px;
+    font-size: 18px;
+}
