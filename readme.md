@@ -10,3 +10,5 @@ Cykl zycia komponentu na przykladzie przycisku
 ### componentWillUnmount() {
 ### console.log("Child2 odmontowany");
 ### }
+
+![img](./assets/img.png)
